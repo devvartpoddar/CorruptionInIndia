@@ -1,4 +1,4 @@
-# Source code file for PAI2 Project
+# Source code file for Final paper on Corruption
 
 # Intialisation
 rm(list = ls())
@@ -17,4 +17,7 @@ rm(load, pkgs)
 try(setwd("/home/devvart/Desktop/CorruptionInIndia"))
 
 # Combining raw csv files
-source("R scripts/file-combine.R")
+source("Rscripts/file-combine.R")
+
+# Scraping all text from web
+source("Rscripts/web-scrape.R")

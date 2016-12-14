@@ -28,7 +28,7 @@ text.clean <- function(text) {
 ## Webscraping function
 web.scrape <- function(URL, node = "p") {
   # Forcing variables to character
-  URL <- as.character(URL)
+  # URL <- as.character(URL)
   node <- as.character(node)
 
   # Base list  of nodes
@@ -38,7 +38,7 @@ web.scrape <- function(URL, node = "p") {
     ".body", ".rtejustify", ".text")
 
   # Closing connection on exit
-  on.exit(close(URL))
+  # on.exit(close(URL))
 
   # Function for node scraping
   node.scrape <- function(html) {
@@ -97,7 +97,8 @@ web.scrape <- function(URL, node = "p") {
 
 # Getting data
 link.data <- import("Input/processed/Corruption.json") %>%
-  select(Date, Link)
+  select(Date, Link) %>%
+  mutate(text = NA)
 
 for (x in 1:nrow(link.data)) {
   # Writing out data if 100 links
@@ -115,6 +116,9 @@ for (x in 1:nrow(link.data)) {
   if (inherits(web.text, "try-error")) {
     next
   }
+
+  # Closing all connections
+  closeAllConnections()
 
   link.data$text[x] <- web.text
 }

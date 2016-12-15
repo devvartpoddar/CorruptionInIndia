@@ -109,6 +109,15 @@ for (x in 1:nrow(link.data)) {
     # Exporting data
     export(link.data, "Output/processed/web-text.json")
   }
+  if (x %% 500 == 0) {
+    message.text <- paste("Sleeping for 120 seconds")
+    message(message.text)
+
+    # Sleeping
+    Sys.sleep(120)
+  }
+
+
   URL <- link.data$Link[x]
 
   web.text <- try(web.scrape(URL))

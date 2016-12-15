@@ -6321,3 +6321,4795 @@ Trying node; .rtejustify
 Trying node; .text
 Trying node; #ins_storybody
 Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x66 [9]
+Completed 57.46 % of scraping
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x61 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x53 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xE9 0x67 0xE9 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x6E 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x63 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x20 0x63 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 57.98 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x2E 0x20 0x55 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x3C 0x2F 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xE9 0x22 0x2F 0x3E [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 58.49 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6C 0x65 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Completed 59.01 % of scraping
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : Timeout was reached
+Error in open.connection(x, "rb") : Couldn't connect to server
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in open.connection(x, "rb") : Couldn't connect to server
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 59.53 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 60.05 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x61 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x43 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x43 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x61 0x6E 0x3C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x74 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x65 0x78 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x69 0x6E 0x61 [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x53 0x6F 0x75 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Completed 60.57 % of scraping
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 61.08 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Completed 61.6 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in open.connection(x, "rb") : HTTP error 503.
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 503.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x22 0x20 0x2F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x69 [9]
+Completed 62.12 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x63 0x6F 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in open.connection(x, "rb") : HTTP error 406.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x59 0x6F 0x75 [9]
+Trying node; #ins_storybody
+Completed 62.64 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 404.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Completed 63.15 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x69 0x74 0x65 [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 404.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 63.67 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 64.19 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x4E 0x50 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x42 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA9 0x32 0x30 0x30 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x54 0x65 0x68 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 64.71 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 503.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Completed 65.22 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : Timeout was reached
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 65.74 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x54 0x65 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 66.26 % of scraping
+Error in open.connection(x, "rb") : HTTP error 503.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 404.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x59 0x6F 0x75 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA4 0x26 0x23 0x33 [9]
+Completed 66.78 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x75 [9]
+Completed 67.29 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x49 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x52 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x53 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x61 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xB0 0x43 0x2E 0x3C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x27 0x20 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x22 0x3E 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x74 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x2D 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x4F 0x76 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Completed 67.81 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x22 0x3E 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x48 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x70 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x70 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x73 0x69 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x72 0x61 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in open.connection(x, "rb") : HTTP error 404.
+Completed 68.33 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x2E 0x20 0x3C [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x3C 0x2F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA9 0x32 0x30 0x30 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x4B 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x67 0x6F 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x70 0x61 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x6C 0x65 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x20 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x74 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x68 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x92 0x3C 0x2F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x22 0x20 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Completed 68.85 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x26 0x6E 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x63 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x72 0x61 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x20 0x66 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x53 0x6F 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x4B 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x44 0x6F 0x77 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x53 0x6F 0x6E [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Trying node; #ins_storybody
+Completed 69.37 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x62 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x43 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x27 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x47 0x6F 0x76 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x64 0x69 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4E 0x61 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x95 0x26 0x6E 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x4B 0x72 0x6F [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x3C 0x62 0x72 [9]
+Completed 69.88 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x28 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x73 0x65 0x6C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x74 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x45 0x2D 0x53 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x57 0x65 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x74 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x54 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x53 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3A 0x20 0x4E [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x43 0x6F [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 70.4 % of scraping
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x4E 0x75 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x62 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x66 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x77 0x69 [9]
+Completed 70.92 % of scraping
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x61 0x74 [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x59 0x6F 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x43 0x72 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x2E 0x3C 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x74 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x73 0x61 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4B [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x76 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x76 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x51 0x75 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x55 0x67 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x4B 0x61 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x55 0x53 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x43 0x6F 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x68 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3A 0x20 0x43 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in open.connection(x, "rb") : HTTP error 403.
+Completed 71.44 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x26 0x6E 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x41 0x74 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 71.95 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x6F 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x2E 0x20 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x77 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4D 0x79 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x4B 0x75 0x6D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x74 0x68 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x41 0x49 0x43 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x2C 0x20 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x53 0x65 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x74 0x77 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x0D 0x0A [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x64 0x6F 0x75 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x57 0x65 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x27 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x43 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x74 0x68 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4B [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 72.47 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x6C 0x6F 0x76 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x3C 0x69 0x3E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x65 0x72 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x75 0x6E 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x76 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 72.99 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x63 0x6F 0x6D [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x52 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x64 0x69 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x4D 0x61 0x68 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x41 0x46 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; #ins_storybody
+Completed 73.51 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x73 0x65 0x63 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x70 0x72 0x69 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x73 0x65 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x0D 0x0A 0x3C [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 74.02 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x0D 0x0A 0x20 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x53 0x6F 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x49 0x6E [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x93 0x59 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x61 0x67 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x20 0x73 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x41 0x46 [9]
+Completed 74.54 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x54 0x4E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x76 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x0D 0x0A [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x61 0x67 0x72 [9]
+Completed 75.06 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x50 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x65 0x2D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x57 0x65 0x20 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Completed 75.58 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x52 0x65 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x64 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x0D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x76 0x65 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x72 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x6C 0x65 0x6E [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 76.09 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x76 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x77 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 76.61 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xAD 0x63 0x69 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x53 0x68 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x69 0x6E [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 77.13 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x28 0x50 0x45 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x63 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x41 0x74 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x41 0x46 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x74 0x68 0x65 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x20 0x53 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x67 0x69 0x66 [9]
+Completed 77.65 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x68 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Completed 78.17 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x41 0x46 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x0D 0x0A [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 78.68 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x79 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Completed 79.2 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x61 0x6D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Completed 79.72 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x73 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 80.24 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x63 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x26 0x23 0x32 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Completed 80.75 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0x3F 0xC3 [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 404.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x63 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 500.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0x3F 0xC3 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 81.27 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x2E 0x20 0x53 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Trying node; #ins_storybody
+Completed 81.79 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x22 0x3E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x20 0x64 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 82.31 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x20 0x50 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xC3 0x3F 0xC2 0xA0 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 82.82 % of scraping
+Sleeping for 120 seconds
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Completed 83.34 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 83.86 % of scraping
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 404.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Completed 84.38 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x69 0x74 0x65 [9]
+Completed 84.89 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 85.41 % of scraping
+Sleeping for 120 seconds
+Error in open.connection(x, "rb") : 
+  SSL peer certificate or SSH remote key was not OK
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 85.93 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Completed 86.45 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x69 0x74 0x65 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 86.97 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x69 0x74 0x65 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : 
+  SSL peer certificate or SSH remote key was not OK
+Error in open.connection(x, "rb") : HTTP error 404.
+Completed 87.48 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x4D 0x4C [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x61 0x6E [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 88 % of scraping
+Sleeping for 120 seconds
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x53 0x6F 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x85 0x27 0x20 0x68 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x43 0x72 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 88.52 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 403.
+Completed 89.04 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 89.55 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xAD 0x67 0x20 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Completed 90.07 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Completed 90.59 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 91.11 % of scraping
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x73 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x3C 0x70 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Completed 91.62 % of scraping
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x44 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x22 0x3E 0x0D [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 502.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : Timeout was reached
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Completed 92.14 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in open.connection(x, "rb") : HTTP error 503.
+Error in open.connection(x, "rb") : HTTP error 404.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Error in open.connection(x, "rb") : HTTP error 524.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 92.66 % of scraping
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4A 0x61 0x6E [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x52 0x75 0x6B [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x76 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x63 0x69 0x76 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x48 0x61 0x6D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x47 0x6F 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x74 0x20 [9]
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in open.connection(x, "rb") : Timeout was reached
+Completed 93.18 % of scraping
+Sleeping for 120 seconds
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in open.connection(x, "rb") : HTTP error 404.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4D 0x4E 0x43 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x0D 0x0A 0x3C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x53 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Completed 93.69 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x63 0x68 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x20 0x76 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x62 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x72 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x77 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Completed 94.21 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x43 0x68 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x4E 0x6F 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xBB 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x57 0x65 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x63 0x6F [9]
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 500.
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x71 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x68 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x95 0x20 0x3C 0x2F [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Completed 94.73 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x70 0x69 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6F 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x68 0x75 0x67 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x77 0x61 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA9 0x32 0x30 0x30 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x64 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x62 0x72 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xAD 0x61 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Completed 95.25 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x62 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x62 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x61 0x6B [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x74 0x61 0x69 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x4D 0x75 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x76 0x65 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6D 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in open.connection(x, "rb") : HTTP error 502.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x66 0x6F [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x3C 0x2F 0x70 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x43 0x4D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA9 0x20 0x32 0x30 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Completed 95.77 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x70 0x65 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x6D 0x69 0x78 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x48 0x65 0x20 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x54 0x68 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x42 0x65 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA9 0x20 0x32 0x30 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x47 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x75 0x6E [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x73 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Completed 96.28 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x35 0x37 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x2C 0x20 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x52 0x65 0x63 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x61 0x73 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x77 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x44 0x72 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x0D 0x0A [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x63 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x68 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xB4 0x73 0x20 0x48 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x0D 0x0A 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x0D 0x0A 0x3C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x55 0x6E 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x54 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x54 0x72 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x0D 0x0A [9]
+Completed 96.8 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x66 0x20 [9]
+Error in open.connection(x, "rb") : HTTP error 503.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x68 0x75 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x49 0x74 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x72 0x69 0x73 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 97.32 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x30 0x39 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x53 0x6F 0x75 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x41 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x74 0x0D 0x0A [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x62 0x72 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x77 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x6D 0x69 0x78 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4D 0x61 0x67 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x74 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x96 0x20 0x74 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x52 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x69 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x6D 0x6F 0x6C [9]
+Completed 97.84 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6F [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x62 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x61 0x6C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x42 0x6F 0x6B [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x49 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6D 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6D 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x64 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x2C 0x20 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x2C 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Completed 98.35 % of scraping
+Sleeping for 120 seconds
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x47 0x6F 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x47 0x6F 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x93 0x65 0x78 0x74 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed 98.87 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x68 0x69 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xB0 0x43 0x2E 0x0D [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x6D 0x65 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x48 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x4D 0x65 0x6C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x4D 0x61 0x6F [9]
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x6E 0x69 0x20 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x94 0x20 0x6F 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x4E 0x65 0x74 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x97 0x20 0x50 0x54 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in open.connection(x, "rb") : HTTP error 403.
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x73 0x61 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xB0 0x43 0x2E 0x3C [9]
+Completed 99.39 % of scraping
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x68 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x3C 0x2F 0x68 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x61 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x72 0x61 0x73 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x95 0x26 0x6E 0x62 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x41 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x7C 0x20 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6E [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x70 [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x4C [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0xA0 0x20 0x28 0x66 [9]
+Completed 99.91 % of scraping
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x91 0x64 0x65 0x76 [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x20 0x61 0x6E [9]
+Error in doc_parse_raw(x, encoding = encoding, base_url = base_url, as_html = as_html,  : 
+  Input is not proper UTF-8, indicate encoding !
+Bytes: 0x92 0x73 0x20 0x6C [9]
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Trying node; #ins_storybody
+Trying node; .Normal
+Trying node; .body
+Trying node; .rtejustify
+Trying node; .text
+Completed data scraping of all websites
+Warning message:
+system call failed: Cannot allocate memory 

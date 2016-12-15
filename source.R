@@ -15,6 +15,7 @@ rm(load, pkgs)
 
 # Setting the working directory
 try(setwd("/home/devvart/Desktop/CorruptionInIndia"))
+try(setwd("/home/devvart/Corruption"))
 
 # Combining raw csv files
 source("Rscripts/file-combine.R")

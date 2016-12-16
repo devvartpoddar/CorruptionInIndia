@@ -17,8 +17,11 @@ rm(load, pkgs)
 try(setwd("/home/devvart/Desktop/CorruptionInIndia"))
 try(setwd("/home/devvart/Corruption"))
 
-# Combining raw csv files
-source("Rscripts/file-combine.R")
+# # Combining raw csv files
+# source("Rscripts/file-combine.R")
+#
+# # Scraping all text from web
+# source("Rscripts/web-scrape.R")
 
-# Scraping all text from web
-source("Rscripts/web-scrape.R")
+# Cleaning and lemmatising text
+source("Rscripts/text-cleaning.R")
